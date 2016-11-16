@@ -1,0 +1,12 @@
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.exe.config
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.exe
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.pdb
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\MainWindow.baml
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\MainWindow.g.cs
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\App.g.cs
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation_MarkupCompile.cache
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.g.resources
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.Properties.Resources.resources
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.csproj.GenerateResource.Cache
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.exe
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.pdb

@@ -1,0 +1,12 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\bin\Debug\DataChangedNotificationDemo.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\bin\Debug\DataChangedNotificationDemo.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\bin\Debug\DataChangedNotificationDemo.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo.csproj.GenerateResource.Cache
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataChangedNotificationDemo\obj\Debug\DataChangedNotificationDemo.pdb

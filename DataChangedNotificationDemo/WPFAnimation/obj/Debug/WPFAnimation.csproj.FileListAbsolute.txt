@@ -1,0 +1,12 @@
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.exe.config
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.exe
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.pdb
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\MainWindow.baml
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\MainWindow.g.cs
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\App.g.cs
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation_MarkupCompile.cache
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.g.resources
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.Properties.Resources.resources
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.csproj.GenerateResource.Cache
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.exe
+D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.pdb
