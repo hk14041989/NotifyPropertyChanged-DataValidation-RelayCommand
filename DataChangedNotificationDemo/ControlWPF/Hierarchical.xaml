@@ -1,0 +1,25 @@
+﻿<Window x:Class="ControlWPF.Hierarchical"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ControlWPF"
+        Title="Hierarchical Binding Demo" Height="250" Width="300">
+    <Window.Resources>
+        <HierarchicalDataTemplate DataType="{x:Type local:Category1}"
+      ItemsSource="{Binding Path=Products}">
+            <TextBlock Background="LightBlue" Text="{Binding Path=CategoryName}" />
+        </HierarchicalDataTemplate>
+
+        <HierarchicalDataTemplate DataType="{x:Type local:Product1}">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Path=ProductID}" />
+                <TextBlock Text=" - " />
+                <TextBlock Text="{Binding Path=ProductName}" />
+            </StackPanel>
+        </HierarchicalDataTemplate>
+    </Window.Resources>
+    <Grid>
+        <TreeView>
+            <TreeViewItem ItemsSource="{Binding}" Header="Categories"/>
+        </TreeView>
+    </Grid>
+</Window>

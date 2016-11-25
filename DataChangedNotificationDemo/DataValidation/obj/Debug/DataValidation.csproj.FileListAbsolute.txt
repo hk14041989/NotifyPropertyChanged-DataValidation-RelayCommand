@@ -10,3 +10,15 @@ D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationD
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.csproj.GenerateResource.Cache
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.exe
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.exe.config
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\MainWindow.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\MainWindow.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\App.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation_MarkupCompile.cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\bin\Debug\DataValidation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.g.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.Properties.Resources.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataValidation\obj\Debug\DataValidation.csproj.GenerateResource.Cache

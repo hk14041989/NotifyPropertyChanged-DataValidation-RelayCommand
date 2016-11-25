@@ -7,7 +7,7 @@
                 Name="MyRectangle"
                 Width="100" 
                 Height="100"
-                Fill="Blue">
+                Fill="Blue" >
             <Rectangle.Triggers>
                 <!-- Animates the rectangle's opacity. -->
                 <EventTrigger RoutedEvent="Rectangle.Loaded">

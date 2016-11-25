@@ -10,3 +10,15 @@ D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationD
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.csproj.GenerateResource.Cache
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.exe
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.exe.config
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\bin\Debug\WPFAnimation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\MainWindow.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\MainWindow.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\App.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation_MarkupCompile.cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.g.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.Properties.Resources.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.csproj.GenerateResource.Cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\WPFAnimation\obj\Debug\WPFAnimation.pdb

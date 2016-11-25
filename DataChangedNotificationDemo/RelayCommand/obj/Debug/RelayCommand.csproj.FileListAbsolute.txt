@@ -25,3 +25,31 @@ D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationD
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\RelayCommand\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\Users\KienPham\Documents\Visual Studio 2013\Projects\DataChangedNotificationDemo\RelayCommand\obj\Debug\Window1.baml
 D:\Users\KienPham\Documents\Visual Studio 2013\Projects\DataChangedNotificationDemo\RelayCommand\obj\Debug\Window1.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\RelayCommand.exe.config
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\RelayCommand.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\RelayCommand.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\System.Windows.Interactivity.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\Window1.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\MainWindow.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\Window1.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\App.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand_MarkupCompile.cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand_MarkupCompile.lref
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\MainWindow.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.g.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.Properties.Resources.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.csproj.GenerateResource.Cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\RelayCommand\obj\Debug\RelayCommand.csprojResolveAssemblyReference.cache

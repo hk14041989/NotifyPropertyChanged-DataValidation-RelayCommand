@@ -1,0 +1,14 @@
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\bin\Debug\DataTemplateWPF.exe.config
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\bin\Debug\DataTemplateWPF.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\bin\Debug\DataTemplateWPF.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\MainWindow.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\MainWindow.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\App.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF_MarkupCompile.cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF.g.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF.Properties.Resources.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF.csproj.GenerateResource.Cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\DataTemplateWPF\obj\Debug\DataTemplateWPF_MarkupCompile.lref

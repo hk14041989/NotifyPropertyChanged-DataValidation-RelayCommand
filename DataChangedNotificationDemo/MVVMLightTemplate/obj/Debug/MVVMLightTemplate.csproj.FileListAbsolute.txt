@@ -30,3 +30,36 @@ D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationD
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.csproj.GenerateResource.Cache
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.exe
 D:\Users\KienPham\documents\visual studio 2013\Projects\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\MVVMLightTemplate.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\MVVMLightTemplate.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\MVVMLightTemplate.exe.CodeAnalysisLog.xml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\MVVMLightTemplate.exe.lastcodeanalysissucceeded
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\System.Windows.Interactivity.dll
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.xml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MainWindow.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\Skins\MainSkin.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\Skins\MvvmView1.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MainWindow.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\Skins\MvvmView1.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\App.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate_MarkupCompile.cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate_MarkupCompile.lref
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\App.baml
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.g.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.Properties.Resources.resources
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.csproj.GenerateResource.Cache
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.exe
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.pdb
+C:\WPF\NotifyPropertyChanged-DataValidation-RelayCommand\DataChangedNotificationDemo\MVVMLightTemplate\obj\Debug\MVVMLightTemplate.csprojResolveAssemblyReference.cache
